@@ -10,17 +10,17 @@ controller to roll a projector screen up and down<br>
  1 ir receiver module standard 38khz<br> 
  1 motor with reversible direction AC 220v 68KTYZ 80rpm<br>
  
- connect relay 1 to pin 4
- connect relay 1 to pin 7
- connect motor to relays
+ connect relay 1 to pin 4<br>
+ connect relay 1 to pin 7<br>
+ connect motor to relays<br>
  
- connect IRReceiver to pin 8
- connect IRSender 1 to pin 6 (use 2n2222 to interface)
+ connect IRReceiver to pin 8<br>
+ connect IRSender 1 to pin 6 (use 2n2222 to interface)<br>
  
- connect hall sensor 1 to pin 2
- connect hall sensor 2 to pin 3
- magnet 1 on screen top and 
- magnet 2 on screen bottom
+ connect hall sensor 1 to pin 2<br>
+ connect hall sensor 2 to pin 3<br>
+ magnet 1 on screen top and <br>
+ magnet 2 on screen bottom<br>
  
  # **use cases**<br>
 
