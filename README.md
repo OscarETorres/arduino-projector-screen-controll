@@ -18,8 +18,9 @@ controller to roll a projector screen up and down<br>
  connect IRSender 1 to pin 6 (use 2n2222 to interface)
  
  connect hall sensor 1 to pin 2
- connect hall sensor 3 to pin 2
- magnets 1 on screen top and 1 on screen bottom
+ connect hall sensor 2 to pin 3
+ magnet 1 on screen top and 
+ magnet 2 on screen bottom
  
  # **use cases**<br>
 
