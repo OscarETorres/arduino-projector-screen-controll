@@ -10,84 +10,81 @@ Materials<br>
  1 ir receiver module standard 38khz<br> 
  1 motor with reversible direction AC 220v 68KTYZ 80rpm<br>
  
-*use cases*
+*use cases*<br>
 
-first switch on
+first switch on<br>
 
-pre-condition
-screen is up
-projector is off
-other equipment is off
+pre-condition<br>
+screen is up<br>
+projector is off<br>
+other equipment is off<br>
 
-actions
-press onoff in control remote
+actions<br>
+press onoff in control remote<br>
 
-results
-screens rolls down
-projector is switch on
-additional equipment is switch on
-screen stops roll when it reaches bottom
+results<br>
+screens rolls down<br>
+projector is switch on<br>
+additional equipment is switch on<br>
+screen stops roll when it reaches bottom<br>
 
-switch off
-pre-condition
-screen is down
-projector is on
-other equipment is on
+switch off<br>
+pre-condition<br>
+screen is down<br>
+projector is on<br>
+other equipment is on<br>
 
-actions
-press onoff in control remote
+actions<br>
+press onoff in control remote<br>
 
-results
-screens rolls up
-projector is switch off
-additional equipment is switch off
-screen stops roll when it reaches top
+results<br>
+screens rolls up<br>
+projector is switch off<br>
+additional equipment is switch off<br>
+screen stops roll when it reaches top<br>
 
-pull screen down
-pre-condition
-screen is up
-projector is on/off
-other equipment is on/off
+pull screen down<br>
+pre-condition<br>
+screen is up<br>
+projector is on/off<br>
+other equipment is on/off<br>
 
-actions
-press arrow down in control remote
+actions<br>
+press arrow down in control remote<br>
 
-results
-screens rolls down
-projector is unchanged
-additional equipment is unchanged
-screen stops roll when it reaches bottom
+results<br>
+screens rolls down<br>
+projector is unchanged<br>
+additional equipment is unchanged<br>
+screen stops roll when it reaches bottom<br>
 
-pull screen up
-pre-condition
-screen is down
-projector is on/off
-other equipment is on/off
+pull screen up<br>
+pre-condition<br>
+screen is down<br>
+projector is on/off<br>
+other equipment is on/off<br>
 
-actions
-press arrow up in control remote
+actions<br>
+press arrow up in control remote<br>
 
-results
-screens rolls up
-projector is unchanged
-additional equipment is unchanged
-screen stops roll when it reaches top
+results<br>
+screens rolls up<br>
+projector is unchanged<br>
+additional equipment is unchanged<br>
+screen stops roll when it reaches top<br>
 
-change screen direction while rolling up/down
-pre-condition
-screen is travelling up/down
-projector is on/off
-other equipment is on/off
+change screen direction while rolling up/down<br>
+pre-condition<br>
+screen is travelling up/down<br>
+projector is on/off<br>
+other equipment is on/off<br>
 
-actions
-press arrow down or up in control remote
+actions<br>
+press arrow down or up in control remote<br>
 
-results
-screen rolling stops
-screens rolls in the pressed direction
-projector is unchanged
-additional equipment is unchanged
-screen stops roll when it reaches top/bottom
-
-
-
+results<br>
+screen rolling stops<br>
+screens rolls in the pressed direction<br>
+projector is unchanged<br>
+additional equipment is unchanged<br>
+screen stops roll when it reaches top/bottom<br>
