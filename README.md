@@ -88,3 +88,18 @@ screens rolls in the pressed direction<br>
 projector is unchanged<br>
 additional equipment is unchanged<br>
 screen stops roll when it reaches top/bottom<br>
+
+
+## Stop screen rolling up/down<br>
+### pre-condition<br>
+screen is travelling up/down<br>
+projector is on/off<br>
+other equipment is on/off<br>
+
+### actions<br>
+press stop in control remote<br>
+
+### results<br>
+screen rolling stops immediatly<br>
+projector is unchanged<br>
+additional equipment is unchanged<br>
