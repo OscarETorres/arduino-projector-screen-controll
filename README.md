@@ -11,7 +11,7 @@ controller to roll a projector screen up and down<br>
  1 motor with reversible direction AC 220v 68KTYZ 80rpm<br>
  
  connect relay 1 to pin 4<br>
- connect relay 1 to pin 7<br>
+ connect relay 2 to pin 7<br>
  connect motor to relays<br>
  
  connect IRReceiver to pin 8<br>
