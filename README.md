@@ -115,3 +115,18 @@ press stop in control remote<br>
 screen rolling stops immediatly<br>
 projector is unchanged<br>
 additional equipment is unchanged<br>
+
+
+## Repeat IR signals<br>
+### pre-condition<br>
+screen is up/down<br>
+projector is on/off<br>
+other equipment is on/off<br>
+
+### actions<br>
+press any other key in current/different control remote<br>
+
+### results<br>
+screen rolling unchanged<br>
+ir signals from remote are re-send by arduino to corresponding projector/equipment<br>
+except for UP,DOWN and STOP<br>
